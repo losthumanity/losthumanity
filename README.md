@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=losthumanity" alt="losthumanity" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **LLM Fine-tuning**
 
 - 👨‍💻 All of my projects are available at [github.com/losthumanity](github.com/losthumanity)
 
-- 💬 Ask me about **data science**
+- 💬 Ask me about **ML, DL, AI**
 
 - 📫 How to reach me **pranavpatil7896@gmail.com**
 
