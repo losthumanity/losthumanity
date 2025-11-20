@@ -100,6 +100,9 @@ CNN-based forensic system built using **PyTorch + ResNet50**
   <a href="https://www.linkedin.com/in/pranavpatil6">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/pranavpatil7896/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+  </a>
 </p>
 
 ---
